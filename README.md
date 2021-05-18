@@ -16,5 +16,7 @@ Link to the above competition :
    – Multiple feature Selection using sklearn.
    
    – Training on 6 different models and Got best accuracy of 0.933.
-
+3-> Diabetes Prediction : Recruitment: https://github.com/mabhay3420/Deep-Into-CNN/tree/master/Datasets
+   - Use only python and basic libraries such as numpy,pandas,matplotlib to implement the following.
+   - Use "logistic regression" and "gradient descent" for prediction.
 
